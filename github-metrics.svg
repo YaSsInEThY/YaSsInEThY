@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="GitHub project snapshot for YaSsInEThY, 3 public repositories and 2 project repositories">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0a0b13"/><stop offset="1" stop-color="#161128"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#a371f7"/><stop offset="1" stop-color="#5f33bc"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="388" rx="24" fill="url(#bg)" stroke="#3b295d" stroke-width="2"/>
+  <rect x="36" y="39" width="7" height="45" rx="3" fill="url(#accent)"/>
+  <text x="58" y="59" font-family="Arial,sans-serif" fill="#f0eaff" font-size="25" font-weight="700">GitHub · Developer Overview</text>
+  <text x="58" y="82" font-family="Arial,sans-serif" fill="#a99cbf" font-size="13">YaSsInEThY  /  Public profile snapshot · October 2026</text>
+  <rect x="35" y="110" width="284" height="145" rx="16" fill="#171528" stroke="#39304b"/>
+  <rect x="358" y="110" width="284" height="145" rx="16" fill="#171528" stroke="#39304b"/>
+  <rect x="681" y="110" width="284" height="145" rx="16" fill="#171528" stroke="#39304b"/>
+  <text x="58" y="174" font-family="Arial,sans-serif" font-size="50" font-weight="700" fill="#ad81ff">3</text>
+  <text x="58" y="207" font-family="Arial,sans-serif" font-size="17" fill="#e2dded">Public repositories</text>
+  <text x="58" y="231" font-family="Arial,sans-serif" font-size="13" fill="#9b92ad">Including this profile</text>
+  <text x="381" y="174" font-family="Arial,sans-serif" font-size="50" font-weight="700" fill="#ad81ff">2</text>
+  <text x="381" y="207" font-family="Arial,sans-serif" font-size="17" fill="#e2dded">Public project repositories</text>
+  <text x="381" y="231" font-family="Arial,sans-serif" font-size="13" fill="#9b92ad">FiveM scripts · Ads scraper</text>
+  <text x="705" y="161" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#ad81ff">FormaCode</text>
+  <text x="705" y="207" font-family="Arial,sans-serif" font-size="17" fill="#e2dded">Building local AI tools</text>
+  <text x="705" y="231" font-family="Arial,sans-serif" font-size="13" fill="#9b92ad">AI agents · Developer workflows</text>
+  <text x="37" y="299" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#e2dded">Working across</text>
+  <rect x="35" y="318" width="152" height="36" rx="18" fill="#362651"/><text x="111" y="341" text-anchor="middle" fill="#d8c1ff" font-size="14" font-family="Arial,sans-serif">Full-Stack Web</text>
+  <rect x="197" y="318" width="142" height="36" rx="18" fill="#362651"/><text x="268" y="341" text-anchor="middle" fill="#d8c1ff" font-size="14" font-family="Arial,sans-serif">AI Automation</text>
+  <rect x="349" y="318" width="148" height="36" rx="18" fill="#362651"/><text x="423" y="341" text-anchor="middle" fill="#d8c1ff" font-size="14" font-family="Arial,sans-serif">Python &amp; APIs</text>
+  <rect x="507" y="318" width="139" height="36" rx="18" fill="#362651"/><text x="576" y="341" text-anchor="middle" fill="#d8c1ff" font-size="14" font-family="Arial,sans-serif">FiveM / Lua</text>
+  <rect x="656" y="318" width="149" height="36" rx="18" fill="#362651"/><text x="731" y="341" text-anchor="middle" fill="#d8c1ff" font-size="14" font-family="Arial,sans-serif">Cloud &amp; Data</text>
+</svg>
